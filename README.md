@@ -41,3 +41,9 @@ Finalement, la 4g est un réseau mobile qui fonctionne sur  celle de 800MHz, et 
 ## Comment le téléphone cellulaire est utilisé aujourd'hui
 
 Le téléphone cellulaire est maintenant utilisé dans plusieurs domaines et il est un des outils les plus utilisés en 2021. Il peut être utilisé comme caméra, gps, téléphone et autres.
+
+Sources :
+
+https://www.echosdunet.net/dossiers/reseaux-mobiles-differences-entre-2g-3g-et-4g
+https://www.greenit.fr/2014/12/12/quelle-est-la-composition-de-mon-telephone/
+https://fr.wikipedia.org/wiki/T%C3%A9l%C3%A9phone_mobile#:~:text=Le%20premier%20t%C3%A9l%C3%A9phone%20mobile%20commercial,Unis%20%3A%20le%20Motorola%20DynaTac%208000.
