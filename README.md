@@ -17,6 +17,27 @@ La 2g est un réseau mobile qui fonctionne sur des fréquences dans les bandes 9
 La 3g est un réseau mobile qui fonctionne sur les bandes de fréquences 900 et 2100 Mhz. Elle permet d'accéder à de l'internet à haut débit. Son débit est de 42Mb/s.
 Finalement, la 4g est un réseau mobile qui fonctionne sur  celle de 800MHz, et sur les bandes 1800MHz et 2600MHz. Elle offre un débit de 150 Mb/s.
 
+
+## Les composants d'un téléphone cellulaire
+
+- Third item50 % de plastiques divers (coque, touches, etc.),
+- 15 % de cuivre (connecteurs, batterie et circuit imprimé),
+- 15 % de verre (l’écran et les connecteurs),
+- 4 % de cobalt ou de lithium (batterie),
+- 4 % de carbone pur (batterie,
+- 3 % de métaux ferreux,
+- 2 % de nickel (batterie),
+- 1 % d’étain (circuit imprimé),
+- 0,5 % de zinc (circuit imprimé),
+- 0,5 % d’argent (circuit imprimé),
+- 0,5 % de plomb (circuit imprimé),
+- 0,5 % de chrome (circuit imprimé),
+- 0,5 % de tantale (circuit imprimé),
+- 0,5 % de cadmium (circuit imprimé),
+- 3 % d’autres matières dont 0,1 % de d’antimoine, d’or, et de berrylium,
+
+
+
 ## Comment le téléphone cellulaire est utilisé aujourd'hui
 
 Le téléphone cellulaire est maintenant utilisé dans plusieurs domaines et il est un des outils les plus utilisés en 2021. Il peut être utilisé comme caméra, gps, téléphone et autres.
